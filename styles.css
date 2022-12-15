@@ -1,0 +1,22 @@
+body {
+    width: 100vw;
+    height: 100vw;
+    align-items: center;
+}
+
+image {
+    width: 500px;
+    height: 500px;
+    align-items: center;
+
+}
+
+nav {
+    background-color: rgb(2, 2, 213);
+}
+
+.carousel {
+    width: 500px;
+    height: 500px;
+    align-items: center;
+}
