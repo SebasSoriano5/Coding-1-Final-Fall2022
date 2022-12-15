@@ -1,7 +1,10 @@
+
+
 body{
     width: 100vw;
     height: 100vw;
     align-items: center;
+    background-color: navy;
 }
 
 img {
@@ -11,7 +14,7 @@ img {
 }
 
 .nav{
-    background-color: blue;
+    background-color: black;
 }
 
 .carousel {
